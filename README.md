@@ -31,7 +31,7 @@ https://www1.nseindia.com/products/content/derivatives/equities/homepage_fo.htm
 
 3. Python apis and documentation for report
 
-#Info through Bhavcopy:
+# Info through Bhavcopy:
 
 List of the gainers and losers for Nifty Securities, Nifty Next 50 Securities, and for other Securities- There are 90 companies that are gainers and 47 companies that are losers at different securities.
 
@@ -42,6 +42,6 @@ Profit happens when the trading amount is between OPEN_PRICE to HIGH_PRICE.
 Loss may happen when the trading amount is between OPEN_PRICE to LOW_PRICE.
 For every securities index values(Open price, low price, higher price) differ. 
 
-#Conclusion-
+# Conclusion-
 All the trading done is related to the previous closed price trading. If the trading has been done during the same duration as the previous close price trading had been done, then companies will generate more profits than their exisisting profits .
 
