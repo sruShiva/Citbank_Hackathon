@@ -1,5 +1,6 @@
 # Note
 For the above problem statement we have tried to make a dashboard using python and extracted the information from the respective websites. This code can be run everyday to get results daily. This is  can help automate the process. Further we have also done data analytics to get important results to help traders and institutions analyze data well.
+There is a shortage of datapoints in the given datasets(csv files) or lack of data so using ml algorithms creates overfitting and underfitting issues.That's why we use Python libraries for better data visualisation.
 # Citbank_Hackathon
 The above repository is the solution for the problem statement specified for the Hackathon.
 There are 4 files in this repository:
