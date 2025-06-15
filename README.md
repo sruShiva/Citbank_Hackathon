@@ -48,3 +48,8 @@ For every securities index values(Open price, low price, higher price) differ.
 # Conclusion-
 All the trading done is related to the previous closed price trading. If the trading has been done during the same duration as the previous close price trading had been done, then companies will generate more profits than their exisisting profits .
 
+
+Sample report screenshots:
+![image](https://github.com/user-attachments/assets/44cb9e0f-68f2-4fca-9694-2cc90431eac2)
+
+
